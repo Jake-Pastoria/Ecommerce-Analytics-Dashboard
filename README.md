@@ -1,5 +1,5 @@
 # [Project] E-commerce Analytics Dashboard
-Demonstration Exploration that pulls streaming content data daily into BigQuery, computes insights, and feeds an interactive Tableau dashboard that shows trends over time.
+End-to-end analytics project in BigQuery and Tableau that models customer behavior, product performance, and return patterns using the Look eCommerce dataset.
 
 Tech Stack:
 - Cloud warehouse: **Google BigQuery** 
